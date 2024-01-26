@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VMLogin</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="error_401">Invalid username or password</string>
+    <string name="error_connection">Connection broken. Verify that you are connected to the internet</string>
+    <string name="error_unexpected">Unexpected error</string>
+
+</resources>
